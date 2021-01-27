@@ -37,7 +37,7 @@
 
             <td>{{ $alumnos->no_control}}</td>
             <td>{{ $alumnos->nombre}}</td>
-            <td><input  name="calif" type="text"></td>
+            <td><input  name="calif" type="number" min="70" max="100" pattern="\d+" step="1"></td>
             </td>
  </tr>
   @endforeach
