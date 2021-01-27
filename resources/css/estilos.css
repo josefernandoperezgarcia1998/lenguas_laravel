@@ -1,0 +1,19 @@
+/* Contenedor del login */
+#body{
+    background-color: #2a37b1;
+ 
+ }
+ #bad {
+     background-color: #77B0C5;
+     border-radius: 8px;
+     box-shadow: 3px 3px 10px 0px rgba(50, 50, 50, 0.75);
+     -moz-box-shadow: 3px 3px 10px 0px rgba(50, 50, 50, 0.75);
+     -webkit-box-shadow: 3px 3px 10px 0px rgba(50, 50, 50, 0.75);
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 10%;
+     max-width: 20em;
+     padding-bottom: 10px;
+     padding-top: 10px;
+  }
+  
